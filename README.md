@@ -58,10 +58,6 @@ docker-compose up -d --build
 | Health Check | http://localhost:8000/health |
 
 
-## Demo Video : 
-
-   [demo Link](https://drive.google.com/file/d/1kWy2BeJTwsvI1Pn2_UDnMLRlXpPWU2lD/view?usp=sharing)
----
 
 ## Test Merchant Credentials
 

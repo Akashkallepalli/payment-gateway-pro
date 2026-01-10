@@ -40,7 +40,7 @@ The system is designed with clean architecture, strict validation logic, and rea
 
 ```bash
 # Clone the repository
-git clone <repo-url>
+git clone https://github.com/Akashkallepalli/payment-gateway-pro.git
 cd payment-gateway
 
 # Start all services
@@ -238,4 +238,5 @@ Expected response:
   "timestamp": "..."
 }
 ```
+"# payment-gateway-pro" 
 "# payment-gateway-pro" 

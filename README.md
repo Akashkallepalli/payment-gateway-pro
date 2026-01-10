@@ -41,7 +41,7 @@ The system is designed with clean architecture, strict validation logic, and rea
 ```bash
 # Clone the repository
 git clone https://github.com/Akashkallepalli/payment-gateway-pro.git
-cd payment-gateway
+cd payment-gateway-pro
 
 # Start all services
 docker-compose up -d --build
